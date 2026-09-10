@@ -1,5 +1,5 @@
-Name: Hashim Abdullah
-CMS ID: 551504
+## Name: Hashim Abdullah
+## CMS ID: 551504
 ## Project Description
 # Sakura & Rakaposhi — A Fractal Valley at Dusk
 **Sakura & Rakaposhi** is an original fractal-based generative artwork that combines multiple fractal and recursive techniques into a single artistic composition.
