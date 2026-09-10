@@ -72,7 +72,83 @@ A large diamond is drawn and smaller diamonds are recursively positioned around 
 | **Math** | Mathematical calculations such as angles and trigonometry |
 | **Random** | Controlled random displacement and procedural generation |
 | **VS Code / Python IDE** | Development environment |
+
+### Required Libraries
+
+```bash
+pip install numpy matplotlib
+```
+
+---
+## Project Structure
+
+```text
+Sakura-Rakaposhi/
+│
+├── fractal_valley.py
+├── README.md
+└── fractal_valley.png
+```
+
+- `fractal_valley.py` — Main Python program containing all fractal algorithms and scene generation.
+- `README.md` — Project documentation.
+- `fractal_valley.png` — Screenshot/static output of the generated fractal artwork.
+
+---
+
+## Setup and Run Instructions
+
+### Step 1 — Install Python
+
+Make sure Python 3.x is installed on your computer.
+
+Check the installation using:
+
+```bash
+python --version
+```
+
+### Step 2 — Clone or Download the Project
+
+Clone the project repository:
+
+```bash
+git clone <your-github-repository-url>
+```
+
+Navigate into the project folder:
+
+```bash
+cd Sakura-Rakaposhi
+```
+
+### Step 3 — Install Required Libraries
+
+Run:
+
+```bash
+pip install numpy matplotlib
+```
+
+### Step 4 — Run the Program
+
+Run the Python file:
+
+```bash
+python fractal_valley.py
+```
+
+A Matplotlib window will open and display the generated fractal valley.
+
+The scene includes animation for:
+
+- Falling Sakura petals
+- Glowing lanterns
+
+---
+
 ## Image
+![alt text](<image.jpg>)
 
 
 
